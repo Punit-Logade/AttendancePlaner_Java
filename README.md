@@ -31,7 +31,7 @@ A smart academic utility built in Java to help students strategically manage the
 ## 🎯 High-Level Logic Example
 If your target is **75%** and you are currently at **80%**, the app will calculate exactly how many upcoming lectures you can skip without falling below your goal.
 
-## 📈 Future Roadmap (20 LPA Goals)
+## 📈 Future Roadmap
 - **Database Integration:** Moving from local files to a PostgreSQL database using Spring Data JPA.
 - **Cloud Sync:** Transitioning into a Spring Boot web application for multi-device access.
 - **Notification Engine:** Adding automated alerts for critical attendance levels.
