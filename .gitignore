@@ -1,0 +1,19 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore packaged applications (like your .jar file)
+*.jar
+*.war
+*.ear
+
+# Ignore IDE-specific folders (VS Code / IntelliJ / Eclipse)
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db

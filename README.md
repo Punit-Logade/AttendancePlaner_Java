@@ -28,6 +28,15 @@ A smart academic utility built in Java to help students strategically manage the
    java Main
    ```
 
+## 🏃 How to Run the App
+If you have Java installed, you can run the pre-compiled version directly without building the code:
+
+1. Navigate to the `dist/` folder.
+2. Run the following command:
+   ```bash
+   java -jar attendancePlaner.jar
+   ```
+
 ## 🎯 High-Level Logic Example
 If your target is **75%** and you are currently at **80%**, the app will calculate exactly how many upcoming lectures you can skip without falling below your goal.
 
