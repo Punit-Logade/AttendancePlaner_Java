@@ -345,10 +345,7 @@ public class AttendanceFrame extends JFrame implements ActionListener {
         subject.skipclass();
 
         int total = Integer.parseInt(totalField.getText().trim()) + 1;
-        int attended = Integer.parseInt(attendedField.getText().trim()) - 1;
-
         totalField.setText(String.valueOf(total));
-        attendedField.setText(String.valueOf(attended));
 
         updateUI();
     }
